@@ -10,3 +10,4 @@
 - [ ] Testing
 - [ ] Documentations
 - [ ] I have read the [CONTRIBUTING](../Contributing.md) guidelines
+- [ ] Added explanation of the Code in a README file
